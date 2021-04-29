@@ -33,6 +33,9 @@
   "intelephense.diagnostics.undefinedMethods": false,
   "intelephense.diagnostics.undefinedVariables": false,
   "emmet.triggerExpansionOnTab": true,
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
   "blade.format.enable": true,
   "[blade]": {
     "editor.autoClosingBrackets": "always"
