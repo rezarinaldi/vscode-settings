@@ -52,21 +52,24 @@
   "[dart]": {
     "editor.defaultFormatter": "Dart-Code.dart-code"
   },
-  "clang-format.executable": "C:/Users/Reza/.vscode-insiders/extensions/ms-vscode.cpptools-1.3.1/LLVM/bin/clang-format",
+  "clang-format.executable": "C:/Users/Reza/.vscode-insiders/extensions/ms-vscode.cpptools-1.5.0-insiders2/LLVM/bin/clang-format",
   "[cpp]": {
     "editor.defaultFormatter": "xaver.clang-format"
   },
   "omnisharp.enableRoslynAnalyzers": true,
   "dart.previewFlutterUiGuidesCustomTracking": true,
   "dart.previewFlutterUiGuides": true,
-  "workbench.editorAssociations": [
-    {
-      "viewType": "jupyter-notebook",
-      "filenamePattern": "*.ipynb"
-    }
-  ],
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter-notebook"
+  },
   "[python]": {
     "editor.defaultFormatter": null
   },
-  "python.formatting.provider": "black"
+  "python.formatting.provider": "black",
+  "python.linting.enabled": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "left"
+  }
 }
