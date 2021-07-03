@@ -16,13 +16,13 @@
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
-  "editor.fontFamily": "Jetbrains Mono",
+  "editor.fontFamily": "JetBrains Mono",
   "editor.fontLigatures": true,
   "todo-tree.tree.showScanModeButton": false,
   "workbench.iconTheme": "city-lights-icons-vsc",
   "git.autofetch": true,
   "git.enableSmartCommit": true,
-  "workbench.colorTheme": "Deep Jungle",
+  "workbench.colorTheme": "Icy Kiss",
   "editor.minimap.enabled": false,
   "workbench.sideBar.location": "right",
   "intelephense.diagnostics.undefinedTypes": false,
@@ -38,6 +38,7 @@
   },
   "blade.format.enable": true,
   "[blade]": {
+    "editor.defaultFormatter": "onecentlin.laravel-blade",
     "editor.autoClosingBrackets": "always"
   },
   "[css]": {
@@ -46,16 +47,16 @@
   "[svelte]": {
     "editor.defaultFormatter": "svelte.svelte-vscode"
   },
-  "[csharp]": {
-    "editor.defaultFormatter": "ms-dotnettools.csharp"
-  },
+  // "[csharp]": {
+  //   "editor.defaultFormatter": "ms-dotnettools.csharp"
+  // },
   "[dart]": {
     "editor.defaultFormatter": "Dart-Code.dart-code"
   },
-  "clang-format.executable": "C:/Users/Reza/.vscode-insiders/extensions/ms-vscode.cpptools-1.5.0-insiders2/LLVM/bin/clang-format",
-  "[cpp]": {
-    "editor.defaultFormatter": "xaver.clang-format"
-  },
+  // "clang-format.executable": "C:/Users/Reza/.vscode-insiders/extensions/ms-vscode.cpptools-1.5.0-insiders2/LLVM/bin/clang-format",
+  // "[cpp]": {
+  //   "editor.defaultFormatter": "xaver.clang-format"
+  // },
   "omnisharp.enableRoslynAnalyzers": true,
   "dart.previewFlutterUiGuidesCustomTracking": true,
   "dart.previewFlutterUiGuides": true,

@@ -10,7 +10,7 @@ I am using theme: [Icy Kiss & Deep Jungle Theme](https://marketplace.visualstudi
 
 ### 🧶 Extensions
 
-![Extensions](img/extensions.png)
+![Extensions](img/extensions1.png)
 
 ### 🧩 Settings file
 
