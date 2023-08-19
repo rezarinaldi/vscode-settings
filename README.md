@@ -8,7 +8,7 @@ I am using: [VSCode Insiders](https://code.visualstudio.com/insiders/).
 
 ### 👨‍🦱 New
 
-![Preview](img/preview_new.png)
+![Preview](img/preview_2023.png)
 
 ### 🍀 Theme
 
@@ -22,13 +22,13 @@ I am using theme: [Icy Kiss & Deep Jungle Theme](https://marketplace.visualstudi
 
 ### 👨‍🦱 New
 
-![Extensions](img/extensions3.png)
+![Extensions](img/extensions_2023.png)
 
 ### 🧩 Settings file
 
 Go to
 
 - [settings.json](settings_old.ts) (Old)
-- [settings.json](settings_new.ts) (New)
+- [settings.json](settings_2023.ts) (New)
 
 (it has .ts extension in order to properly display comments on github)
