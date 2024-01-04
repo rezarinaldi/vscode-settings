@@ -16,15 +16,14 @@
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
+  "workbench.iconTheme": "city-lights-icons-vsc",
+  "typescript.updateImportsOnFileMove.enabled": "always",
   "editor.fontFamily": "JetBrains Mono",
   "editor.fontLigatures": true,
   "todo-tree.tree.showScanModeButton": false,
-  "workbench.iconTheme": "city-lights-icons-vsc",
   "git.autofetch": true,
   "git.enableSmartCommit": true,
-  "workbench.colorTheme": "Icy Kiss",
   "editor.minimap.enabled": false,
-  "workbench.sideBar.location": "right",
   "intelephense.diagnostics.undefinedTypes": false,
   "intelephense.diagnostics.undefinedFunctions": false,
   "intelephense.diagnostics.undefinedConstants": false,
@@ -47,30 +46,44 @@
   "[svelte]": {
     "editor.defaultFormatter": "svelte.svelte-vscode"
   },
-  // "[csharp]": {
-  //   "editor.defaultFormatter": "ms-dotnettools.csharp"
-  // },
   "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off",
     "editor.defaultFormatter": "Dart-Code.dart-code"
   },
-  // "clang-format.executable": "C:/Users/Reza/.vscode-insiders/extensions/ms-vscode.cpptools-1.5.0-insiders2/LLVM/bin/clang-format",
-  // "[cpp]": {
-  //   "editor.defaultFormatter": "xaver.clang-format"
-  // },
-  "omnisharp.enableRoslynAnalyzers": true,
   "dart.previewFlutterUiGuidesCustomTracking": true,
   "dart.previewFlutterUiGuides": true,
-  "workbench.editorAssociations": {
-    "*.ipynb": "jupyter-notebook"
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "editor.guides.bracketPairs": true,
+  "emulator.emulatorPath": "F:\\app\\Android\\Sdk\\emulator",
+  "workbench.colorTheme": "Icy Kiss",
+  "terminal.integrated.profiles.windows": {
+    "PowerShell": {
+      "source": "PowerShell",
+      "icon": "terminal-powershell"
+    },
+    "Command Prompt": {
+      "path": [
+        "${env:windir}\\Sysnative\\cmd.exe",
+        "${env:windir}\\System32\\cmd.exe"
+      ],
+      "args": [],
+      "icon": "terminal-cmd"
+    },
+    "Git Bash": {
+      "source": "Git Bash"
+    },
+    "Ubuntu (WSL)": {
+      "path": "C:\\Windows\\System32\\wsl.exe",
+      "args": ["-d", "Ubuntu"]
+    }
   },
-  "[python]": {
-    "editor.defaultFormatter": null
-  },
-  "python.formatting.provider": "black",
-  "python.linting.enabled": false,
-  "typescript.updateImportsOnFileMove.enabled": "always",
-  "notebook.cellToolbarLocation": {
-    "default": "right",
-    "jupyter-notebook": "left"
-  }
+  "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
+  "remote.WSL.fileWatcher.polling": true
 }
