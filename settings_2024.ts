@@ -40,8 +40,8 @@
     "editor.defaultFormatter": "onecentlin.laravel-blade",
     "editor.autoClosingBrackets": "always"
   },
-  "[css]": {
-    "editor.defaultFormatter": "michelemelluso.code-beautifier"
+  "[css, scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[svelte]": {
     "editor.defaultFormatter": "svelte.svelte-vscode"
@@ -85,5 +85,6 @@
     }
   },
   "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
-  "remote.WSL.fileWatcher.polling": true
+  "remote.WSL.fileWatcher.polling": true,
+  "security.allowedUNCHosts": ["wsl.localhost"]
 }
