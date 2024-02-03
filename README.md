@@ -12,7 +12,10 @@ I am using: [VSCode Insiders](https://code.visualstudio.com/insiders/).
 
 ### 🍀 Theme
 
-I am using theme: [Icy Kiss & Deep Jungle Theme](https://marketplace.visualstudio.com/items?itemName=stelo.icykiss).
+I am using theme:
+
+- [Icy Kiss & Deep Jungle Theme](https://marketplace.visualstudio.com/items?itemName=stelo.icykiss)
+- [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 
 ### 🧶 Extensions
 

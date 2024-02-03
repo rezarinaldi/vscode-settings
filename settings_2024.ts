@@ -18,12 +18,11 @@
   },
   "workbench.iconTheme": "city-lights-icons-vsc",
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "editor.fontFamily": "JetBrains Mono",
+  // "editor.fontFamily": "JetBrains Mono",
   "editor.fontLigatures": true,
   "todo-tree.tree.showScanModeButton": false,
   "git.autofetch": true,
   "git.enableSmartCommit": true,
-  "editor.minimap.enabled": false,
   "intelephense.diagnostics.undefinedTypes": false,
   "intelephense.diagnostics.undefinedFunctions": false,
   "intelephense.diagnostics.undefinedConstants": false,
@@ -62,7 +61,7 @@
   "bracket-pair-colorizer-2.depreciation-notice": false,
   "editor.guides.bracketPairs": true,
   "emulator.emulatorPath": "F:\\app\\Android\\Sdk\\emulator",
-  "workbench.colorTheme": "Icy Kiss",
+  "workbench.colorTheme": "GitHub Dark",
   "terminal.integrated.profiles.windows": {
     "PowerShell": {
       "source": "PowerShell",
@@ -86,5 +85,48 @@
   },
   "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
   "remote.WSL.fileWatcher.polling": true,
-  "security.allowedUNCHosts": ["wsl.localhost"]
+  "security.allowedUNCHosts": ["wsl.localhost"],
+  "svelte.enable-ts-plugin": true,
+
+  // additional
+  "workbench.startupEditor": "none",
+  "workbench.settings.editor": "json",
+  "breadcrumbs.enabled": false,
+  "explorer.compactFolders": false,
+  "editor.wordWrap": "bounded",
+  "editor.tabSize": 2,
+  "editor.inlineSuggest.enabled": true,
+  "editor.minimap.enabled": false,
+  "editor.fontFamily": "Geist Mono",
+  "terminal.integrated.fontFamily": "Geist Mono",
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+
+  // apc
+  "apc.font.family": "Geist Mono",
+  "apc.activityBar": {
+    "position": "bottom",
+    "hideSettings": true,
+    "size": 24
+  },
+  "apc.statusBar": {
+    "position": "editor-bottom",
+    "height": 22,
+    "fontSize": 12
+  },
+  "apc.electron": {
+    "titleBarStyle": "hiddenInset",
+    "trafficLightPosition": {
+      "x": 8,
+      "y": 10
+    }
+  },
+  "apc.header": {
+    "height": 34,
+    "fontSize": 14
+  },
+  "apc.listRow": {
+    "height": 21,
+    "fontSize": 13
+  }
 }
