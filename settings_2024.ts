@@ -18,7 +18,7 @@
   },
   "workbench.iconTheme": "city-lights-icons-vsc",
   "typescript.updateImportsOnFileMove.enabled": "always",
-  // "editor.fontFamily": "JetBrains Mono",
+  "editor.fontFamily": "JetBrains Mono",
   "editor.fontLigatures": true,
   "todo-tree.tree.showScanModeButton": false,
   "git.autofetch": true,
@@ -97,13 +97,11 @@
   "editor.tabSize": 2,
   "editor.inlineSuggest.enabled": true,
   "editor.minimap.enabled": false,
-  "editor.fontFamily": "Geist Mono",
-  "terminal.integrated.fontFamily": "Geist Mono",
+  "terminal.integrated.fontFamily": "JetBrains Mono",
   "window.commandCenter": false,
   "workbench.layoutControl.enabled": false,
 
   // apc
-  "apc.font.family": "Geist Mono",
   "apc.activityBar": {
     "position": "bottom",
     "hideSettings": true,
