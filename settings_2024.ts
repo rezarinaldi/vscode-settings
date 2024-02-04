@@ -98,13 +98,10 @@
   "editor.inlineSuggest.enabled": true,
   "editor.minimap.enabled": false,
   "terminal.integrated.fontFamily": "JetBrains Mono",
-  "window.commandCenter": false,
-  "workbench.layoutControl.enabled": false,
 
   // apc
   "apc.activityBar": {
     "position": "bottom",
-    "hideSettings": true,
     "size": 24
   },
   "apc.statusBar": {
