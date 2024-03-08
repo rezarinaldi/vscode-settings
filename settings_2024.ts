@@ -87,10 +87,13 @@
   "remote.WSL.fileWatcher.polling": true,
   "security.allowedUNCHosts": ["wsl.localhost"],
   "svelte.enable-ts-plugin": true,
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
 
   // additional
   "workbench.startupEditor": "none",
-  "workbench.settings.editor": "json",
+  // "workbench.settings.editor": "json",
   "breadcrumbs.enabled": false,
   "explorer.compactFolders": false,
   "editor.wordWrap": "bounded",
