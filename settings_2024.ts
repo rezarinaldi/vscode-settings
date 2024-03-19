@@ -61,7 +61,7 @@
   "bracket-pair-colorizer-2.depreciation-notice": false,
   "editor.guides.bracketPairs": true,
   "emulator.emulatorPath": "F:\\app\\Android\\Sdk\\emulator",
-  "workbench.colorTheme": "GitHub Dark",
+  "workbench.colorTheme": "Deep Jungle",
   "terminal.integrated.profiles.windows": {
     "PowerShell": {
       "source": "PowerShell",
@@ -104,8 +104,8 @@
 
   // apc
   "apc.activityBar": {
-    "position": "bottom",
-    "size": 24
+    "position": "top",
+    "size": 32
   },
   "apc.statusBar": {
     "position": "editor-bottom",
