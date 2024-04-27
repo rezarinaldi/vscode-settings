@@ -16,6 +16,7 @@
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
+  "workbench.colorTheme": "Deep Jungle",
   "workbench.iconTheme": "catppuccin-mocha",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "editor.fontFamily": "JetBrains Mono",
@@ -61,7 +62,6 @@
   "bracket-pair-colorizer-2.depreciation-notice": false,
   "editor.guides.bracketPairs": true,
   "emulator.emulatorPath": "F:\\app\\Android\\Sdk\\emulator",
-  "workbench.colorTheme": "Deep Jungle",
   "terminal.integrated.profiles.windows": {
     "PowerShell": {
       "source": "PowerShell",
