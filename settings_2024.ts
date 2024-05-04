@@ -24,24 +24,9 @@
   "todo-tree.tree.showScanModeButton": false,
   "git.autofetch": true,
   "git.enableSmartCommit": true,
-  "intelephense.diagnostics.undefinedTypes": false,
-  "intelephense.diagnostics.undefinedFunctions": false,
-  "intelephense.diagnostics.undefinedConstants": false,
-  "intelephense.diagnostics.undefinedClassConstants": false,
-  "intelephense.diagnostics.undefinedProperties": false,
-  "intelephense.diagnostics.undefinedMethods": false,
-  "intelephense.diagnostics.undefinedVariables": false,
   "emmet.triggerExpansionOnTab": true,
   "[prisma]": {
     "editor.defaultFormatter": "Prisma.prisma"
-  },
-  "[php]": {
-    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
-  },
-  "blade.format.enable": true,
-  "[blade]": {
-    "editor.defaultFormatter": "onecentlin.laravel-blade",
-    "editor.autoClosingBrackets": "always"
   },
   "[css, scss]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
