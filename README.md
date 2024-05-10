@@ -10,16 +10,15 @@ I am using: [VS Code Insiders](https://code.visualstudio.com/insiders/).
 
 ![Preview](img/preview_2024.png)
 
-### 🍀 Theme
+### 🍀 Theme and Icon
 
 I am using theme:
 
 - [Icy Kiss & Deep Jungle Theme](https://marketplace.visualstudio.com/items?itemName=stelo.icykiss)
-- [Jetbrains Fleet Theme](https://marketplace.visualstudio.com/items?itemName=MichaelZhou.fleet-theme)
 
 I am using icon:
 
-- [Catppuccin Icons for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons)
+- [City Lights Icon package](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc)
 
 ### 🧶 Extensions
 
