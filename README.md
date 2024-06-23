@@ -14,6 +14,7 @@ I am using: [VS Code Insiders](https://code.visualstudio.com/insiders/).
 
 I am using theme:
 
+- Light Modern (Default Light Modern)
 - [Icy Kiss & Deep Jungle Theme](https://marketplace.visualstudio.com/items?itemName=stelo.icykiss)
 
 I am using icon:

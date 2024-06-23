@@ -16,7 +16,7 @@
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
-  "workbench.colorTheme": "Icy Kiss Light",
+  "workbench.colorTheme": "Default Light Modern",
   "workbench.iconTheme": "city-lights-icons-vsc",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "editor.fontFamily": "JetBrains Mono",
