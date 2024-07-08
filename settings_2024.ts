@@ -28,6 +28,12 @@
   "[prisma]": {
     "editor.defaultFormatter": "Prisma.prisma"
   },
+  "[md]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+  },
+  "[mdx]": {
+    "editor.defaultFormatter": "unifiedjs.vscode-mdx"
+  },
   "[css, scss]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
@@ -88,7 +94,7 @@
   "editor.tabSize": 2,
   "editor.inlineSuggest.enabled": true,
   "editor.minimap.enabled": false,
-  "terminal.integrated.fontFamily": "JetBrains Mono",
+  "terminal.integrated.fontFamily": "JetBrains Mono"
 
   // apc
   // "apc.activityBar": {
