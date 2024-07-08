@@ -91,28 +91,28 @@
   "terminal.integrated.fontFamily": "JetBrains Mono",
 
   // apc
-  "apc.activityBar": {
-    "position": "top",
-    "size": 32
-  },
-  "apc.statusBar": {
-    "position": "editor-bottom",
-    "height": 22,
-    "fontSize": 12
-  },
-  "apc.electron": {
-    "titleBarStyle": "hiddenInset",
-    "trafficLightPosition": {
-      "x": 8,
-      "y": 10
-    }
-  },
-  "apc.header": {
-    "height": 34,
-    "fontSize": 14
-  },
-  "apc.listRow": {
-    "height": 21,
-    "fontSize": 13
-  }
+  // "apc.activityBar": {
+  //   "position": "top",
+  //   "size": 32
+  // },
+  // "apc.statusBar": {
+  //   "position": "editor-bottom",
+  //   "height": 22,
+  //   "fontSize": 12
+  // },
+  // "apc.electron": {
+  //   "titleBarStyle": "hiddenInset",
+  //   "trafficLightPosition": {
+  //     "x": 8,
+  //     "y": 10
+  //   }
+  // },
+  // "apc.header": {
+  //   "height": 34,
+  //   "fontSize": 14
+  // },
+  // "apc.listRow": {
+  //   "height": 21,
+  //   "fontSize": 13
+  // }
 }
