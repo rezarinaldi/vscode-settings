@@ -8,7 +8,7 @@ I am using: [VS Code Insiders](https://code.visualstudio.com/insiders/).
 
 ### 👨‍🦱 New
 
-![Preview](img/preview_2024.png)
+![Preview](img/preview_2025.png)
 
 ### 🍀 Theme and Icon
 
@@ -29,13 +29,13 @@ I am using icon:
 
 ### 👨‍🦱 New
 
-![Extensions](img/extensions_2024.png)
+![Extensions](img/extensions_2025.png)
 
 ### 🧩 Settings file
 
 Go to
 
 - [settings.json](settings_old.ts) (Old)
-- [settings.json](settings_2024.ts) (New)
+- [settings.json](settings_2025.ts) (New)
 
 (it has .ts extension in order to properly display comments on github)
