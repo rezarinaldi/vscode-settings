@@ -2,6 +2,15 @@
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
 
   // format code on save
   "editor.formatOnSave": true,
@@ -18,7 +27,6 @@
   "editor.fontFamily": "JetBrains Mono",
   "editor.fontLigatures": true,
   "editor.bracketPairColorization.enabled": true,
-  "workbench.colorTheme": "Default Light Modern",
   "git.autofetch": true,
   "git.enableSmartCommit": true,
   "emmet.triggerExpansionOnTab": true,
@@ -69,7 +77,6 @@
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "remote.WSL.fileWatcher.polling": true,
   "security.allowedUNCHosts": ["wsl.localhost"],
-  "svelte.enable-ts-plugin": true,
   "files.associations": {
     "*.css": "tailwindcss"
   },
@@ -90,6 +97,10 @@
     "**/**.ts": "${dirname}/${filename}", // route.ts
     "**/**.tsx": "${dirname}/${filename}" // layout.tsx, page.tsx, template.tsx
   },
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "security.workspace.trust.untrustedFiles": "open",
+  "remote.autoForwardPortsSource": "hybrid",
+  "workbench.colorTheme": "Default Light Modern"
 
   // apc
   // "apc.activityBar": {
