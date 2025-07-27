@@ -1,4 +1,5 @@
-{// for prettier configuration
+{
+  // for prettier configuration
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
@@ -9,6 +10,9 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css, scss]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
 
@@ -22,22 +26,11 @@
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
-  "workbench.iconTheme": "city-lights-icons-vsc",
-  "typescript.updateImportsOnFileMove.enabled": "always",
-  "editor.fontFamily": "JetBrains Mono",
-  "editor.fontLigatures": true,
-  "editor.bracketPairColorization.enabled": true,
-  "git.autofetch": true,
-  "git.enableSmartCommit": true,
-  "emmet.triggerExpansionOnTab": true,
   "[prisma]": {
     "editor.defaultFormatter": "Prisma.prisma"
   },
   "[md, mdx]": {
     "editor.defaultFormatter": "yzhang.markdown-all-in-one"
-  },
-  "[css, scss]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter"
@@ -52,6 +45,18 @@
     "editor.tabCompletion": "onlySnippets",
     "editor.wordBasedSuggestions": "off"
   },
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "workbench.colorTheme": "Default Light Modern",
+  "workbench.iconTheme": "city-lights-icons-vsc",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+  "editor.bracketPairColorization.enabled": true,
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "emmet.triggerExpansionOnTab": true,
   "editor.guides.bracketPairs": true,
   "terminal.integrated.profiles.windows": {
     "PowerShell": {
@@ -77,9 +82,6 @@
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "remote.WSL.fileWatcher.polling": true,
   "security.allowedUNCHosts": ["wsl.localhost"],
-  "files.associations": {
-    "*.css": "tailwindcss"
-  },
 
   // additional
   "workbench.startupEditor": "none",
@@ -100,7 +102,6 @@
   "terminal.integrated.defaultProfile.linux": "zsh",
   "security.workspace.trust.untrustedFiles": "open",
   "remote.autoForwardPortsSource": "hybrid",
-  "workbench.colorTheme": "Default Light Modern"
 
   // apc
   // "apc.activityBar": {
